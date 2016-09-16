@@ -9,11 +9,15 @@ body {
     padding: 0px auto;
 	text-align: center;
 	font-family: 'Open Sans', sans-serif;
-	background-color: #ffffff;
+	background-color: #23395B;
 	top: 0px;
 	height: auto;
 	min-height: 100%;
 	margin-bottom: 60px;
+}
+
+p {
+	color: #FFFD98;
 }
 
 hr {
@@ -33,7 +37,11 @@ img {
 }
 
 #header h3 {
-	margin-top: 0px;
+	margin-top: 0px;	
+}
+
+h3, h1{
+	color: #B9E3C6;	
 }
 
 #details {
@@ -48,10 +56,11 @@ img {
     width: 100%;
     margin-left: 0px;
     padding-left: 0px;
-    background-color: #ffffff;
+    background-color: #59C9A5;
 }
 
 #footer p {
+	color: #23395B;
 	bottom: 0px;
 	margin-bottom: 0px;
 	padding-bottom: 18px;
